@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Cocogoose";
+    src: url(fonts/Cocogoose-Pro-Light-trial.ttf) format(opentype);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Cocogoose-Bold";
+    src: url(fonts/Cocogoose-Pro-Regular-trial.ttf) format(opentype);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Cocogoose-Bolder";
+    src: url(fonts/Cocogoose-Pro-Bold-trial.ttf) format(opentype);
+    font-weight: bolder;
+}
+@font-face {
+    font-family: "Cocogoose-Italic";
+    src: url(fonts/Cocogoose-Pro-Light-Italic-trial.ttf) format(opentype);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cocogoose-BoldItalic";
+    src: url(fonts/Cocogoose-Pro-Italic-trial.ttf) format(opentype);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cocogoose-BolderItalic";
+    src: url(fonts/Cocogoose-Pro-Bold-Italic-trial.ttf) format(opentype);
+    font-weight: bolder;
+    font-style: italic;
+}
